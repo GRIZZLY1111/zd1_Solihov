@@ -1,0 +1,7 @@
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\bin\Debug\УП_практика_cat.exe.config
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\bin\Debug\УП_практика_cat.exe
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\bin\Debug\УП_практика_cat.pdb
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\obj\Debug\УП_практика_cat.csproj.AssemblyReference.cache
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\obj\Debug\УП_практика_cat.csproj.CoreCompileInputs.cache
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\obj\Debug\УП_практика_cat.exe
+C:\Солихов ПР-21\УП_практика_cat\УП_практика_cat\obj\Debug\УП_практика_cat.pdb
