@@ -31,6 +31,7 @@ namespace zd1_Solihov
             if (count <= 0)
             {
                 MessageBox.Show("Количество не может быть равным нулю или меньше");
+                return;
             }
             shop.Add(name, count);
             MessageBox.Show("Товар добавлен!");
@@ -48,6 +49,7 @@ namespace zd1_Solihov
                 if (price <= 0 || count <= 0)
                 {
                     MessageBox.Show("Количество или цена не могут быть равны нулю или меньше");
+                    return;
                 }
                 shop.CreateProduct(name, price, count);
                 MessageBox.Show("Товар добавлен!");

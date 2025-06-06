@@ -9,3 +9,4 @@ C:\Солихов ПР-21\zd1_Solihov\zd1_Solihov\obj\Debug\zd1_Solihov.csproj.C
 C:\Солихов ПР-21\zd1_Solihov\zd1_Solihov\obj\Debug\zd1_Solihov.exe
 C:\Солихов ПР-21\zd1_Solihov\zd1_Solihov\obj\Debug\zd1_Solihov.pdb
 C:\Солихов ПР-21\zd1_Solihov\zd1_Solihov\obj\Debug\zd1_Solihov.Zad2.resources
+C:\Солихов ПР-21\zd1_Solihov\zd1_Solihov\obj\Debug\zd1_Solihov.Zad3.resources

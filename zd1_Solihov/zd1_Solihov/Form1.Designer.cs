@@ -54,8 +54,9 @@ namespace zd1_Solihov
             // третьеЗаданиеToolStripMenuItem
             // 
             this.третьеЗаданиеToolStripMenuItem.Name = "третьеЗаданиеToolStripMenuItem";
-            this.третьеЗаданиеToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.третьеЗаданиеToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.третьеЗаданиеToolStripMenuItem.Text = "Третье задание";
+            this.третьеЗаданиеToolStripMenuItem.Click += new System.EventHandler(this.третьеЗаданиеToolStripMenuItem_Click);
             // 
             // Form1
             // 

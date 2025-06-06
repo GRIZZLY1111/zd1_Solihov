@@ -27,5 +27,11 @@ namespace zd1_Solihov
             Zad2 zad2 = new Zad2();
             zad2.ShowDialog();
         }
+
+        private void третьеЗаданиеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Zad3 zad3 = new Zad3();
+            zad3.ShowDialog();
+        }
     }
 }
