@@ -69,9 +69,9 @@ namespace zd1_Solihov
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(12, 64);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(263, 20);
+            this.label2.Size = new System.Drawing.Size(221, 20);
             this.label2.TabIndex = 18;
-            this.label2.Text = "Введите название плейлиста";
+            this.label2.Text = "Введите название песни";
             // 
             // label1
             // 

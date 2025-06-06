@@ -31,6 +31,10 @@ namespace zd1_Solihov
             else
                 throw new IndexOutOfRangeException("Невозможно получить текущую аудиозапись для пустого плейлиста!");
         }
+        public bool IsFileExists(string filename)
+        {
+            return !list.Any(song => song.Filename == filename);
+        }
         //Перегрузка добавления записи
         public void AddSong(Song song)
         {
@@ -40,8 +44,15 @@ namespace zd1_Solihov
         //Добавление записи
         public void AddSong(string author, string title, string filename)
         {
-            list.Add(new Song { Author = author, Title = title, Filename = filename });
-            count++;
+            if (IsFileExists(filename))
+            {
+                list.Add(new Song { Author = author, Title = title, Filename = filename });
+                count++;
+            }
+            else
+            {
+                MessageBox.Show("Файл с таким путем уже сществует");
+            }
         }
 
         //Переход к следующей записи
